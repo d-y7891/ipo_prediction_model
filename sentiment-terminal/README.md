@@ -34,7 +34,7 @@ orchestrator.py ─── workers/sentiment_worker.py ──┐
 
 ## Setup
 
-### 1. Python backend
+### 1. Python backend-
 
 ```bash
 python -m venv venv
