@@ -67,7 +67,7 @@ If your column names differ, edit `IPO_MASTER_PATH` handling in
 # Install the SDK (already in requirements.txt)
 pip install google-cloud-bigquery
 
-# Install the gcloud CLI, then authenticate ONCE:
+# Install the gcloud CLI, then authenticate ONCE :
 gcloud auth application-default login
 
 # Verify:
